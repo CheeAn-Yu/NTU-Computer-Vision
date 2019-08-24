@@ -1,0 +1,65 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63
+0,q,p,p,p,p,p,p,q, , , , , , , , ,q,q,p, , ,q,p,p,p,p,p,p,q,q,q,q,q,q,q,q, , , , , ,q,p,p,p,p,p,p,p,p,p,p,p, , , , , , , ,q, , ,q
+1,p,q,q,q,q,q,q,p, , , , , , , , , ,p,q,p, ,p,q,q,q,q,q,q,p, ,q, ,p,p, , ,q,q, , , ,p,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , , , , , 
+2,p,q,q,q,q,q,q,p, , , , , , , , ,q, ,p,q,p,q,q,q,q,q,p,p, , ,q,p,q,q,p,q,q, , , , , ,p,q,q,q,q,q,q,q,q,q,q,p, , , , , , , ,q, , 
+3,p,q,q,q,q,q,q,p, , , , , , , , ,q, ,q, ,p,q,q,q,p,p, ,q, , ,p,q,q,q,p, , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,p, , , , , ,q, , , 
+4,p,q,q,q,q,q,q,p, , , , , , , , , , ,q, ,q,p,p,p, ,q, , , , , ,p,q,p,q, , ,q, , , , ,p,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , , , , 
+5,p,q,q,q,q,q,q,p, , , , , , , , , ,q, , ,q, , ,q,q, ,p, , , , , ,p, , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , , , 
+6,p,q,q,q,q,q,q,p, , , , , , , , , , , ,q, , ,q, , ,p,q,p,p,p,p, , , , ,q,q, ,q, , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , , 
+7,p,q,q,p,q,q,q,p, , , , , , , , , , , ,q,q,q,q, ,p,q,q,q,q,q,q,p,p,p, , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , , 
+8,p,q,p, ,p,q,q,p, , , , , , , , , , , , ,q, , ,q, ,p,q,q,q,q,q,q,q,q,p, , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , , 
+9,q,p, , ,p,q,q,p, , , , , , , , , , , , , , , , , ,q,p,q,q,q,q,q,q,q,q,p, , , , , , ,p,q,q,q,p,q,q,q,q,q,q,q,q,p, , , , , , , , 
+10,q,q, , ,p,q,q,p, , , , , , , , , , , , , , , , , ,q, ,p,q,q,q,q,q,q,q,q,p,p, , , , ,p,q,q,p, ,p,q,q,q,q,q,q,p, , , , , , , , , 
+11,q, , , ,p,q,q,p, , , , , , , , , , , , , , , , , ,p, ,p,q,q,q,q,q,q,q,q,q,q,p, , , ,p,q,q,p, , ,p,q,q,q,q,p, , , , , , , , , ,q
+12, , , , ,p,q,q,p, , , , , , , , , , , , , , , ,q,p,q,p,q,q,q,q,q,q,q,q,q,q,q,p, , , ,p,q,q,p, , , ,p,q,q,q,p, , , , , , , , ,p,q
+13, , , , ,p,q,q,p, , , , , , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , ,p,q,q,p, , , ,p,q,q,p, , , , , , , , ,p,q,p
+14, , , , ,p,q,q,p, , , , , , , , ,q, , , , , ,q,p,q,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , ,p,q,p, , , , ,p,p, , , , , , , , ,p,q,q,p
+15, , , , ,p,q,q,p, , , , , , , , ,q, , , , ,q,q, ,p, ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, ,p,q,p, , ,p,p,q,q,p, , , , , , , ,p,q,q,p
+16, , , , ,p,q,q,p, , , , , , , , ,q, , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, ,p,q,p, ,p,q,q,q,q,p, , , , , , ,p,q,q,q,p
+17, , , , ,p,q,q,p, , , , , , , , ,q, , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p,q,q,q,p,q,q,q,q,q,p, , , , , ,p,q,q,q,q,p
+18, , , , ,p,q,q,p, , , , , , , ,q,q, , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , ,p,q,q,q,q,p
+19, , , , ,p,q,q,p, , , , , , , ,q,p, , , ,q, ,q,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p,q, , , , , ,p,q,q,q,q,q,p
+20, , , , ,p,q,q,p, , , , , , , ,p,q,p, , , ,q,q, ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, ,q, , , , , ,p,q,q,q,q,q,p
+21, , , , ,p,q,q,p, , , , , , , ,p,q,q,p, , ,q, ,p,q,q,q,p,q,p,q,q,p,p,q,p,p,q,q,q,q,q,q,q,q,q,q,q,p,q, , , , , , ,p,q,q,q,q,q,q,p
+22, , , , ,p,q,q,p, , , , , , , ,p,q,p,q, , , ,q, ,p,q,p, ,p, ,p,p, , ,p, , ,p,q,q,q,q,q,q,q,q,p,p, , ,q, , , , , ,p,q,q,q,q,q,q,p
+23, , , , ,p,q,q,p, , , , , , , ,q,p, ,q, , ,q,q,q, ,p, , , , , , , , , , ,p,q,q,q,q,q,q,q,p,p, , , ,q, , , , , ,p,q,q,q,q,q,q,q,p
+24, , , , ,p,q,q,p, , , , , , , , ,q,q,q, ,q, , ,q,q,q, , , , , , , , , ,p,q,q,q,q,q,q,p,p, , ,p,q,q, , , , , , ,p,q,q,q,q,q,q,q,p
+25, , , , ,p,q,q,p, , , , , , , , ,q,q, ,q, , , ,q, , , , , , , , , , , ,p,q,q,q,q,q,p, , , ,p,q,p, , , , , , ,p,q,q,q,q,q,q,q,q,p
+26, , , , ,p,q,q,p, , , , , , , , , ,q, , ,q, , , , , , , , , , , , , ,p,q,q,q,q,q,q,q,p, , , ,p, , , , , , , , ,p,q,q,q,q,q,q,q,p
+27, , , , ,p,q,q,p, , , , , , , , , ,q, , , ,q, , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,p, , ,q, , , , , , , ,q, ,p,q,q,q,q,q,q,q,p
+28, , , , ,p,q,q,p, , , , , , , , , ,q, , , , , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,p, , , , , , , , , , ,q,p,q,q,q,q,q,q,q,q,p
+29, , , , ,p,q,q,p, , , , , , , , , ,q, , ,q, , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,p, , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,p
+30, , , , ,p,q,q,p, , , , , , , , , , , , , , , , , , , , , , ,p,q,q,q,p,p,q,q,q,q,q,q,q,p, , ,q, , , , , ,p,q,q,q,q,q,q,q,q,q,q,p
+31, , , , ,p,q,q,p, , , , , , , , ,p, ,q, , , , , , , , , , ,p,q,q,p,p, , ,p,q,q,q,q,q,p, , , ,q, , , , , ,p,q,q,q,q,q,q,q,q,q,q,p
+32, , , , ,p,q,q,p, , , , , , , ,p,q,p, , , , , , , , , , , ,p,q,p, , , , , ,p,q,q,p,p, , , , ,q, , , , , ,p,q,q,q,q,q,q,q,q,q,q,p
+33, , , , ,p,q,q,p, , , , , , ,p,q,p, , , , , , , , , , ,q,p,q,p, , , ,q, , ,p,q,p, , ,q, , , ,q, , , , ,p,q,q,q,q,q,q,q,q,q,q,p,q
+34, , , , ,p,q,q,p, , , , , , ,q,p, , , , , , , , , , , ,p,q,p, ,p, , ,q,q,q, ,p,p, , ,q, , , ,q, , , , ,p,q,q,q,q,q,q,q,q,q,p, ,q
+35, , , , ,p,q,q,p, , , , ,q,q, , ,q, , , , ,q, , , , , ,q,p, ,p,q,p, , ,p,p, ,p,q,p,q, , , , ,q, , , , ,p,q,q,q,q,q,q,q,q,q,q,p,q
+36, , , , ,p,q,q,p, , , , , ,q, , , , , , ,q,q, , , , ,q,q, , ,p,q,q,p,p,q,q,p,q,q,q,p, , , , ,q, , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,p
+37, , , , ,p,q,q,p, , , ,q, , , , , , , , , , , , , , ,q, , , ,p,q,q,q,q,q,q,p,q,q,q,q,p, , , ,q, , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,p
+38, , , , ,p,q,q,p, , , ,q, , , , ,q, , , , , ,q, , ,q,q, , ,p,q,q,q,q,q,q,p, ,p,q,q,q,p, , , , ,q, , ,p,q,q,q,q,q,q,q,q,q,q,q,q,p
+39, , , , ,p,q,q,p, , , ,q, , , , , , , , , , , , , ,q, , , , ,p,q,q,q,q,q,p, ,p,q,q,q,p, , , , ,q, ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p
+40, , , , ,p,q,q,p, , , , , , ,q, ,q, , , , , , ,q,q, , , , , ,p,q,q,q,q,p, ,q, ,p,q,p, , , , , ,q, ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p
+41, , , , ,p,q,q,p, , , , , , , , , , , , , , , ,q, , , , , , ,p,q,q,q,q,q,p,p, ,p,q,p, , , , , ,q, ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p
+42, , , , ,p,q,q,p, , , , , , , , , ,q, , , ,q, ,q, , , , , ,p,q,q,q,q,q,q,q,q,p,q,q,p, , , , , ,q, ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p
+43, , , , ,p,q,q,p, , , , , , , , , ,q, , ,q,q, , , , , , , , ,p,q,q,q,p,p,p,p,q,p,p, , , , , , ,q,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p
+44, , , , ,p,q,q,p, , ,q, , , , , , ,q, ,q,q, , , , , , , , , , ,p,q,p, , , , ,p, ,q, , , , , , ,p,q,q,q,q,q,q,q,q,p,q,q,q,q,q,q,p
+45, , , , ,p,q,q,p, , , , , , , ,q, , ,q, , ,q, , , , , , , , , , ,p,q,p, , ,p,q,p, , , , , , , ,p,q,q,q,q,q,q,q,p, ,p,q,q,q,q,q,p
+46, , , , ,p,q,q,p, , , , , , , , , , , , ,q, , , , , , , , , , , ,p,q,q,p,p,q,q,p, , , , , , , ,p,q,q,q,q,q,q,q,p, ,p,q,q,q,q,q,p
+47, , , , ,p,q,q,p, , , , , , , , ,q, , , , , , , , , , , , , , , , ,p,q,q,q,q,p, , , , , , , , ,p,q,q,q,q,q,q,q,p, ,p,q,q,q,q,q,p
+48, , , , ,p,q,q,p, , , , , , , , , , , , , , , , , , , , , , , , , , ,p,q,q,q,p, , , , , , , , ,q,p,p,p,p,p,q,q,p, ,p,q,q,q,q,p, 
+49, , , , ,p,q,q,q,p, , , , , , ,q, , , ,q,q, , , , , , , , , , ,q, ,p,q,q,q,q,q,p, , , , , , , ,q, , , , , ,p,p, ,p,q,q,q,q,p, , 
+50, , , , , ,p,q,p, ,q, , , , , ,q, , , , ,q, , , , , , , , , , , , ,p,q,q,q,q,q,q,p,p, , , , , ,q,p,p,p, , , , , ,p,q,q,q,p, , , 
+51,q,q, , , ,p,q,q,p, , , , , , , , , , ,q, , , , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,p,q, , , ,p,q,q,q,p,q, , , ,p,q,q,p, , , , 
+52, ,q,q, , ,p,q,q,p, , , , , , , , , , ,q, , , , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,p, , , ,p,q,q,q,q,p, , ,p,q,q,p, , , , , 
+53, , ,q, , ,p,q,p, , , , , , , , , , , , ,q, , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,p, , ,p,q,q,q,q,p, , ,p,q,q,p, , , , , 
+54, , ,q, , ,p,q,q,p, , , , ,q, , , , , , , , ,q, , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p, ,p,q,q,q,p, ,q,p,q,q,p, , , , , , 
+55, , ,q, , ,p,q,p, , , , , , , , , , , ,q,q,q, , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p, ,p,q,q,q,q,p, ,p,q,q,p, , , , , , 
+56, , ,q, , ,p,q,q,p, , , , , , , , , , , , , , , , , , , ,q, , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p, ,p,q,q,q,q,p, ,p,q,q,p, , , , , , 
+57, , ,q,q, ,p,q,q,p, , , , , , , , , , , , , ,q, , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , ,p,p,p,q,q,p,q,q,p, , , , , , , 
+58, , ,q,q, ,p,q,p, , , , , , , , , , ,q, , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , ,p,p,q,q,q,p, , , , , , , 
+59, , ,q,q, ,p,q,p, , , , , , , , , , , , , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , ,p,q,p, , , , , , , , 
+60, , ,q,q, ,p,q,p, , , , , , , , , , , , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , ,q,p,q, , , , , , , , 
+61, , ,q,q, ,p,q,p, , , , , , , , , , , , , , , , , , , , , ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , , ,q, , , , , , , , , , 
+62, , ,q,q, ,p,q,p, , , , , , , , , , , , , , , , , , , , ,q, ,p,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,p, , , , , , , , , , , , , , , , 
+63, , ,q,q, ,q,p,q, , , , , , , , ,q, , , , , , , , , , , , ,q,q,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,q, , , , , , , , , , , , , , , , 
